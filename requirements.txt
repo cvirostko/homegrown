@@ -1,0 +1,1 @@
+# swapi (currently the swapi library is hard coded to point to swapi.co instead of its new domain swapi.dev, this can be re-added to modules if the library is updated)
